@@ -1,0 +1,9 @@
+TASK 8 - Sales Dashboard Insights
+
+1. The West region generated the highest sales among all regions, while the South region recorded the lowest sales.
+
+2. Technology contributed the highest share of total sales, followed by Furniture and Office Supplies.
+
+3. Sales showed an overall upward trend from 2014 to 2017, with some monthly fluctuations.
+
+4. The Region slicer enables users to interactively analyze sales performance for individual regions.
